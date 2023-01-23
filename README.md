@@ -86,9 +86,9 @@ scss\custom.scss
 
 assets\css\custom.css
 #### Que fichero he de hacer referencia?
-
+```
 <link rel="stylesheet" href="assets/css/custom.css">
-
+```
 #### Dónde estan las variables que puedo cambiar?
 
 node_modules\bootstrap\scss\_variables.scss
